@@ -1,3 +1,3 @@
 # mainpage
 
-Сайт Трофименко на GitHub Pages
+Сайт Трофименко И. ЭДБ-21-05 на GitHub Pages 
